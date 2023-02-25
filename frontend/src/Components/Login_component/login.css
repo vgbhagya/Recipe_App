@@ -1,0 +1,15 @@
+/* *{
+   background-color: rgb(149, 149, 196);
+} */
+
+#middle {
+    height: 60vh;
+    width: 60vw;
+    background-color: #bfc4c4;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 100px;
+    margin-left: 300px;
+    border-radius: 4px;
+}
